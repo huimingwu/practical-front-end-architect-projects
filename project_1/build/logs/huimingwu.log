@@ -1,0 +1,44 @@
+[2018-11-24T21:10:28.044] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/wuxu/Documents/github/practical-projects/huimingwu-web/build/controllers/indexController.js:21:15
+    at dispatch (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/build/middlewares/errorHandler.js:19:13)
+    at dispatch (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/build/middlewares/errorHandler.js:10:15)
+    at dispatch (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa/node_modules/koa-compose/index.js:34:12
+[2018-11-24T21:39:20.507] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/wuxu/Documents/github/practical-projects/huimingwu-web/build/controllers/indexController.js:21:15
+    at dispatch (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/build/middlewares/errorHandler.js:22:13)
+    at dispatch (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/build/middlewares/errorHandler.js:10:15)
+    at dispatch (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa/node_modules/koa-compose/index.js:34:12
+[2018-11-24T21:39:39.900] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/wuxu/Documents/github/practical-projects/huimingwu-web/build/controllers/indexController.js:21:15
+    at dispatch (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/build/middlewares/errorHandler.js:22:13)
+    at dispatch (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/build/middlewares/errorHandler.js:10:15)
+    at dispatch (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa/node_modules/koa-compose/index.js:34:12
+[2018-11-24T21:39:40.776] [ERROR] cheese - ReferenceError: result is not defined
+    at /Users/wuxu/Documents/github/practical-projects/huimingwu-web/build/controllers/indexController.js:21:15
+    at dispatch (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa-simple-router/index.js:186:18)
+    at Router._lookup (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa-simple-router/index.js:198:12)
+    at /Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa-simple-router/index.js:138:21
+    at dispatch (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/build/middlewares/errorHandler.js:22:13)
+    at dispatch (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at app.use (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/build/middlewares/errorHandler.js:10:15)
+    at dispatch (/Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at /Users/wuxu/Documents/github/practical-projects/huimingwu-web/node_modules/koa/node_modules/koa-compose/index.js:34:12

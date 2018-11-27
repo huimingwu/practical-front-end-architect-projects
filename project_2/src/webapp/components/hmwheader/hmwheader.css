@@ -1,0 +1,10 @@
+:root{
+    --headerBgColor:red;
+    --headerColor:white;
+}
+.components-hmwheader {
+    & h1 {
+        background-color: var(--headerBgColor);
+        color:var(--headerColor);
+    }
+}
